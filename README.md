@@ -9,8 +9,6 @@
 <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredhii&theme=vue&layout=compact&hide_border=true" class="responsive"/>
 </a>
 
-<br />
-
 ---
 
 ### Contact me:
