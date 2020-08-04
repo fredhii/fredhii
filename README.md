@@ -1,8 +1,3 @@
-# Hello there, I'm Fredy
-<p align="center">
-  <img width="500" height="360" src="https://image.freepik.com/free-vector/multitasking-concept-illustration-character_23-2148403716.jpg" class="responsive">
-</p>
-
 
 <a>
 <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fredhii&theme=vue&show_icons=true&hide_border=true" class="responsive" />
