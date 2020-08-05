@@ -3,6 +3,7 @@
         <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fredhii&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
     </div>
     <br/>
+    <br/>
     <div style="display: inline-block;">
         <img width="330" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredhii&theme=dark&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
