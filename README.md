@@ -24,7 +24,7 @@
     <!-- github -->
     <a href="https://github.com/fredhii"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="30px" alt="Github"></a> &nbsp; &nbsp;
     <!-- Web -->
-    <a href="https://www.fredhii.com"><img src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" width="30px" alt="Web"></a> &nbsp; &nbsp;
+    <a href="http://www.fredhii.com"><img src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" width="30px" alt="Web"></a> &nbsp; &nbsp;
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/fredhii/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- twitter -->
