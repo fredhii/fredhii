@@ -14,9 +14,19 @@
 <br/>
 
 
-### Contact me:
-[<img align="left" alt="nelimonroyortiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nelimonroyortiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[linkedin]: https://www.linkedin.com/in/fredhii/
-[twitter]: https://twitter.com/fredhii_
+<!-- Contact me -->
+<div align="center">
+  <h3 align="center">Connect with me</h3> 
+</div>
+<p align="center">
+    <!-- gmail-->
+    <a href="mailto:dm@fredhii.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="30px" alt="e-mail"></a> &nbsp; &nbsp;
+    <!-- github -->
+    <a href="https://github.com/fredhii"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="30px" alt="Github"></a> &nbsp; &nbsp;
+    <!-- Web -->
+    <a href="https://www.fredhii.com"><img src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" width="30px" alt="Web"></a> &nbsp; &nbsp;
+    <!-- linkedin -->
+    <a href="https://www.linkedin.com/in/fredhii/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <!-- twitter -->
+    <a href="https://twitter.com/fredhii_"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
+</p>
