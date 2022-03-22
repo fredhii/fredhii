@@ -28,5 +28,5 @@
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/fredhii/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- twitter -->
-    <a href="https://twitter.com/fredhii_"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
+    <a href="https://twitter.com/fredhii_"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
 </p>
